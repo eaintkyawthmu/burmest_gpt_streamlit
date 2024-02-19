@@ -1,0 +1,8 @@
+#install
+
+streamlit
+huggingface
+transformers
+datasets
+evaluate
+accelerate
